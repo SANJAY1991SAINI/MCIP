@@ -1,9 +1,4 @@
-/*
- * tim7.h
- *
- *  Created on: Apr 4, 2024
- *      Author: Yugnadhar
- */
+
 
 #ifndef TIM7_H_
 #define TIM7_H_

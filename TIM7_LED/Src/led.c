@@ -1,9 +1,4 @@
-/*
- * led.c
- *
- *  Created on: Mar 27, 2024
- *      Author: Yugandhar
- */
+
 
 #include "led.h"
 #include "stm32f4xx.h"
