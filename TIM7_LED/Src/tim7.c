@@ -22,11 +22,5 @@ void TimerDelayMs(uint32_t ms) {
 	// stop timer counter
 	TIM7->CR1 &= ~TIM_CR1_CEN;
 }
-/*
- * tim7.c
- *
- *  Created on: Apr 4, 2024
- *      Author: aditya
- */
 
 
